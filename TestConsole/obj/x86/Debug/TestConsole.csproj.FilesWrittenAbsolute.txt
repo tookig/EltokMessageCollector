@@ -1,0 +1,7 @@
+/home/tokig/Programmering/Source/EltokMessageCollector/TestConsole/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/tokig/Programmering/Source/EltokMessageCollector/TestConsole/bin/Debug/TestConsole.exe.mdb
+/home/tokig/Programmering/Source/EltokMessageCollector/TestConsole/bin/Debug/TestConsole.exe
+/home/tokig/Programmering/Source/EltokMessageCollector/TestConsole/obj/x86/Debug/TestConsole.exe
+/home/tokig/Programmering/Source/EltokMessageCollector/TestConsole/obj/x86/Debug/TestConsole.exe.mdb
+/home/tokig/Programmering/Source/EltokMessageCollector/TestConsole/bin/Debug/Lib.dll
+/home/tokig/Programmering/Source/EltokMessageCollector/TestConsole/bin/Debug/Lib.dll.mdb

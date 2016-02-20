@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="TestConsole/TestConsole.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lib/CPR.cs">
+    <Files>
+      <File FileName="Lib/Messages/ADSB/SurfacePosition.cs" Line="75" Column="2" />
+      <File FileName="Lib/Messages/ADSB/AirborneVelocity.cs" Line="1" Column="1" />
+      <File FileName="Lib/Messages/ADSB/ADSBBase.cs" Line="29" Column="32" />
+      <File FileName="Lib/Messages/ADSB/AirbornePosition.cs" Line="9" Column="57" />
+      <File FileName="Lib/CPR.cs" Line="150" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
